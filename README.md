@@ -30,7 +30,7 @@ I am building and strengthening my expertise in designing, automating, securing,
 
 * Git
 * GitHub
-* Jenkins
+* GitHub Actions
 * CI/CD Pipelines
 * Build & Deployment Automation
 
